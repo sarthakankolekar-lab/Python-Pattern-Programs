@@ -1,3 +1,4 @@
+#Code
 n = int(input())
 
 l = [1, 0]
@@ -19,3 +20,15 @@ for i in range(n):
         nl.append(0)
         l = nl
         print()
+
+#Output
+"""
+6
+
+1
+1 1 
+1 2 1 
+1 3 3 1 
+1 4 6 4 1 
+1 5 10 10 5 1
+"""
